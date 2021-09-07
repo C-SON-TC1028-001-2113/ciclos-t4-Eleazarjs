@@ -14,9 +14,9 @@ def main():
                     if num%2==0:
                         print(num)
         else:
-            print("No hay pares")                
-         
-    
+            print("No hay pares")   
 
+            
+                         
 if __name__=='__main__':
     main()
